@@ -1,10 +1,10 @@
-# 🎬 Projeto Buscador de Filmes
+# Projeto Buscador de Filmes
 
 Este é um projeto simples de busca de filmes e séries utilizando a [API OMDb (Open Movie Database)](https://www.omdbapi.com/). O usuário pode digitar o nome de um filme ou série, e o sistema retorna os resultados encontrados, exibindo o **nome** e o **pôster** de cada item.
 
 ---
 
-## 📌 O que a API faz?
+## O que a API faz?
 
 A API OMDb permite pesquisar informações sobre filmes e séries. Ao enviar uma requisição com o nome de um filme ou série, a API retorna uma lista com os resultados que correspondem à pesquisa, incluindo:
 
@@ -14,13 +14,13 @@ A API OMDb permite pesquisar informações sobre filmes e séries. Ao enviar uma
 
 ---
 
-## 🔗 Link da API utilizada
+## Link da API utilizada
 
 [https://www.omdbapi.com/](https://www.omdbapi.com/)
 
 ---
 
-## 📦 Quais dados a API fornece?
+## Quais dados a API fornece?
 
 Ao realizar uma busca com o parâmetro `s=`, a API retorna uma lista de resultados com os seguintes dados para cada item:
 
@@ -32,15 +32,15 @@ Ao realizar uma busca com o parâmetro `s=`, a API retorna uma lista de resultad
 
 ---
 
-## ▶️ Como executar o projeto
+## Como executar o projeto
 
-### ✅ Pré-requisitos
+### Pré-requisitos
 
 - Navegador (Google Chrome, Firefox, Edge, etc.)
 - Editor de código (VS Code recomendado)
 - Servidor local (por exemplo, Live Server no VS Code)
 
-### 💻 Como rodar
+### Como rodar
 
 1. Clone ou baixe o repositório.
 2. Abra o projeto em um editor como o VS Code.
@@ -50,7 +50,8 @@ Ao realizar uma busca com o parâmetro `s=`, a API retorna uma lista de resultad
 
 ---
 
-## 💡 Observação
+## Observação
 
 Para usar a API é necessário gerar uma **chave gratuita (API Key)** no site oficial da OMDb:  
-👉 [https://www.omdbapi.com/apikey.aspx](https://www.omdbapi.com/apikey.aspx)
+
+[https://www.omdbapi.com/apikey.aspx](https://www.omdbapi.com/apikey.aspx)
